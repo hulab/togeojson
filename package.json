@@ -1,13 +1,13 @@
 {
-  "name": "togeojson",
-  "version": "3.0.0",
+  "name": "converttogeojson",
+  "version": "3.0.0-hulab-1",
   "description": "convert KML and GPX to GeoJSON",
-  "umd:main": "dist/togeojson.umd.js",
-  "unpkg": "dist/togeojson.umd.js",
-  "browser": "dist/togeojson.umd.js",
-  "jsdelivr": "dist/togeojson.umd.js",
-  "module": "dist/togeojson.es.js",
-  "main": "dist/togeojson.js",
+  "umd:main": "dist/converttogeojson.umd.js",
+  "unpkg": "dist/converttogeojson.umd.js",
+  "browser": "dist/converttogeojson.umd.js",
+  "jsdelivr": "dist/converttogeojson.umd.js",
+  "module": "dist/converttogeojson.es.js",
+  "main": "dist/converttogeojson.js",
   "files": [
     "dist"
   ],

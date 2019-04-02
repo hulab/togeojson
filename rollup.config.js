@@ -7,7 +7,7 @@ export default [
   {
     input,
     output: {
-      file: "dist/togeojson.es.js",
+      file: "dist/converttogeojson.es.js",
       format: "es",
       sourcemap
     }
@@ -15,7 +15,7 @@ export default [
   {
     input,
     output: {
-      file: "dist/togeojson.js",
+      file: "dist/converttogeojson.js",
       format: "cjs",
       sourcemap
     }
@@ -23,9 +23,9 @@ export default [
   {
     input,
     output: {
-      file: "dist/togeojsons.min.js",
+      file: "dist/converttogeojsons.min.js",
       format: "umd",
-      name: "toGeoJSON",
+      name: "convertToGeoJSON",
       sourcemap
     },
     plugins: [terser()]
